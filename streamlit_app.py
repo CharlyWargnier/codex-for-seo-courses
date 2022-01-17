@@ -100,7 +100,7 @@ def select_page(page_key):
 
 if __name__ == "__main__":
     st.set_page_config(
-        page_title="No Code Gallery with Streamlit & Codex",
+        page_title="Codex for SEO Courses | Data Marketing Labs",
         page_icon="🎈",
         layout="wide",
     )

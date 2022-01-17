@@ -1,0 +1,17 @@
+openai
+transformers
+keybert
+plotly
+tensorflow
+causalimpact
+fbprophet
+pystan==2.19.1.1
+
+# Core
+streamlit==1.1.0
+
+# Dependencies
+pandas-profiling
+pandas
+numpy
+requests

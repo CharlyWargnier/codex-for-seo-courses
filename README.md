@@ -1,0 +1,1 @@
+# codex-for-seo-courses

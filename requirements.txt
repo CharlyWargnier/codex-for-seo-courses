@@ -8,7 +8,7 @@ fbprophet
 pystan==2.19.1.1
 
 # Core
-streamlit==1.1.0
+streamlit
 
 # Dependencies
 pandas-profiling

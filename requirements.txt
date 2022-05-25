@@ -9,6 +9,7 @@ pystan==2.19.1.1
 
 # Core
 streamlit
+click==8
 
 # Dependencies
 pandas-profiling

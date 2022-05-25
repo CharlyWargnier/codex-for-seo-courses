@@ -14,5 +14,5 @@ click==8
 # Dependencies
 pandas-profiling
 pandas
-numpy
+NumPy >= 1.8
 requests
